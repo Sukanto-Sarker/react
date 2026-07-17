@@ -7,7 +7,7 @@ const Home = () => {
 
       <p className="text-gray-700 text-lg mb-6">
         Welcome to our website! This is the Home page. Here you can find
-        information about our services, latest updates, and featured content.
+        information about our Services, latest updates, and featured content.
       </p>
 
       <img
